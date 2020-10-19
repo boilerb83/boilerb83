@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src = "./assets/Brandon'sPortfolio.png">
+<img src = "./assets/Portfolio_background.png">
 <!--
 **boilerb83/boilerb83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
