@@ -1,4 +1,4 @@
-### wELCOME TO MY GITHUB PAGE 👋
+### WELCOME TO MY GITHUB PAGE 👋
 <img src = "./assets/Portfolio_background.png">
 <!--
 **boilerb83/boilerb83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
