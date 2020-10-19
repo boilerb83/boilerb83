@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<!-- saved from url=(0041)https://boilerb83.github.io/SD_Portfolio/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta property="og:image" content="../SD_Portfolio/assets/developer_background.jpg">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="stylesheet" href="./Brandon&#39;s Portfolio_files/main.css">
+    <title>Brandon's Portfolio</title>
+
+    <!-- Bootstrap core CSS -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="./Brandon&#39;s Portfolio_files/bootstrap.min.css" integrity="sha384-y3tfxAZXuh4HwSYylfB+J125MxIs6mR5FOHamPBG064zB+AFeWH94NdvaCBm8qnd" crossorigin="anonymous">
+
+    <script src="./Brandon&#39;s Portfolio_files/8930a5cd36.js.download" crossorigin="anonymous"></script><link href="./Brandon&#39;s Portfolio_files/free-v4-shims.min.css" media="all" rel="stylesheet"><link href="./Brandon&#39;s Portfolio_files/free-v4-font-face.min.css" media="all" rel="stylesheet"><link href="./Brandon&#39;s Portfolio_files/free.min.css" media="all" rel="stylesheet">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="./Brandon&#39;s Portfolio_files/bootstrap-theme.min.css" integrity="sha384-6pzBo3FDv/PJ8r2KRkGHifhEocL+1X2rVCTTkUfGk7/0pbek5mMa1upzvWbrUbOZ" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="./Brandon&#39;s Portfolio_files/bootstrap.min.js.download" integrity="sha384-aJ21OjlMXNL5UyIl/XNwTMqvzeRMZH2w8c5cRVpzpU8Y5bApTppSuUkhZXN0VxHd" crossorigin="anonymous"></script></head><body>\
+
+    <!-- <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script> -->
+
+
+
+
+    <nav>
+        <ul class="nav-links">
+            <li><a href="https://boilerb83.github.io/SD_Portfolio/#home">Home</a></li>
+            <li><a href="https://boilerb83.github.io/SD_Portfolio/#about">About</a></li>
+            <li><a href="https://boilerb83.github.io/SD_Portfolio/#work">Projects</a></li>
+            <li><a href="https://boilerb83.github.io/SD_Portfolio/#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <section id="home">
+        <div class="name">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <h1>Brandon Thompson</h1>
+            <p class="lead">An Electrical Engineer, Designer, and future Software Developer.</p>
+            <a href="https://github.com/boilerb83"><i class="fab fa-github fa-6x" aria-hidden="true"></i></a>
+            <a href="https://www.linkedin.com/in/brandon-thompson-474b9424/"><i class="fab fa-linkedin fa-6x" aria-hidden="true"></i></a>
+        </div>
+    </section>
+
+
+    <section id="about">
+        <div class="about-section">
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <h1>About Me</h1>
+            <p class="Education">Education: Purdue University Bachelor of Science in Electrical Engineering Technology
+            </p>
+            <p class="Additional Education">Current Education: 1150 Academy Software Development</p>
+            <p class="Technical Skills">Technical Languages: Embedded C, C#, .NET, SQL Server, Excel VBA, GitHub</p>
+            <p class="Hobbies">Hobbies: I like being outdoors, road cycling, mountain biking, and riding my
+            motorcycle.
+            </p>
+            <br>
+            <p><a href="https://boilerb83.github.io/SD_Portfolio/assets/B_Thompson_Resume_Engineering_2020.pdf" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">View Resume</a></p>
+        </div>
+    </section>
+
+    <section id="work">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <h1>My Projects</h1>
+        <br>
+        <div class="card-deck">
+
+            <div class="card">
+                <a href="https://codepen.io/boilerb83/pen/PoNRgvL"><img class="card-img-top" src="./Brandon&#39;s Portfolio_files/Creature.png" alt="Card image cap" id="creature" height="400" width="100%"></a>
+                <div class="card-body">
+                    <h5 class="card-title">Creature Project</h5>
+                    <br>
+                    <p class="card-text"></p>
+                </div>
+            </div>
+
+            <div class="card">
+                <a href="https://boilerb83.github.io/GoldBadge/"><img class="card-img-top" src="./Brandon&#39;s Portfolio_files/Business_Logic.png" alt="Card image cap" id="logic" height="400" width="100%"></a>
+                <div class="card-body">
+                    <h5 class="card-title">Business Logic Project</h5>
+                    <br>
+                    <p class="card-text">
+                    </p>
+                </div>
+            </div>
+
+            <div class="card">
+                <img class="card-img-top" src="./Brandon&#39;s Portfolio_files/blue_badge.png" alt="Card image cap" height="400" width="100%">
+                <div class="card-body">
+                    <h5 class="card-title">Blue Badge (TBD)</h5>
+                    <br>
+                    <p class="card-text"></p>
+                </div>
+            </div>
+
+            <div class="card">
+                <img class="card-img-top" src="./Brandon&#39;s Portfolio_files/red_badge.png" alt="Card image cap" height="400" width="100%">
+                <div class="card-body">
+                    <br>
+                    <h5 class="card-title">Red Badge (TBD)</h5>
+                    <p class="card-text"></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="contact-title">
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+            <h2>Contact Me</h2>
+        </div>
+        <p id="contact_label">Please fill this form out to email me</p>
+        <form method="POST" action="https://formspree.io/f/xbjpdlwv">
+            <p><input type="text" placeholder="Enter Name"></p>
+            <p><input type="text" placeholder="Enter Email" name="_replyto"></p>
+            <p><input type="text" placeholder="Enter Contact Number"></p>
+            <p><textarea placeholder="Enter Message"></textarea></p>
+            <button class="btn btn-primary"><a type="submit" class="submit">SUBMIT</a></button>
+        </form>
+    </section>
+
+    <section id="footer">
+        <footer class="footer">
+            <br>
+            <p>© 2020 by Brandon Thompson</p>
+        </footer>
+    </section>
+
+
+</body></html>

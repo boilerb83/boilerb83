@@ -1,0 +1,193 @@
+/* Brandon Thompson Portfolio Assignment */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  html {
+    scroll-behavior: smooth;
+    /* scroll-snap-type: y mandatory; */
+  }
+  
+  body {   
+    background-image: url("../SD_Portfolio/assets/developer_background.jpg");
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100vh;
+    opacity: 0.9;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 20px;
+  }
+
+  i {
+      margin-left: 20px;
+  }
+
+  #home{
+      /* margin-top: 350px; */
+      min-height: 100vh;
+
+  }
+
+.name{
+    color: white;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.name h1{
+    font-size: 5em;
+}
+
+.name p{
+    font-size: 2em;
+}
+
+ #about{
+     min-height: 100vh;
+     color: white;
+     text-align: center;
+ }
+
+.about-section{
+    margin-top: 300px;
+}
+
+.about-section h1{
+    margin-top: 200px;
+    font-size: 3em;
+
+}
+
+.about-section p{
+    font-size: 2em;
+}
+
+ #work-cards{
+     color: white;
+
+ }
+
+ #work h1{
+     color: white;
+     font-size: 5em;
+     text-align: center;
+ }
+  
+ #contact form{
+     min-height: 100vh;
+     color: white;
+     text-align: center;
+ }
+
+ #contact h2{
+     color: white;
+     font-size: 3em;
+     text-align: center;
+ }
+
+ #contact_label{
+     color: #4285F4;
+     text-align: center;
+ }
+
+ #contact input{
+     border-radius: 5px;
+     width: 19%;
+ }
+
+ .submit{
+     color: white;
+     font-size: 20px;
+ }
+  
+ #contact textarea{
+     width: 400px;
+     height: 100px;
+     border-radius: 5px
+ }
+
+ h1{
+     font-size: 3em;
+ }
+
+   #work{
+       min-height: 100vh;
+       
+   }
+  
+   .card-text{
+       color: black;
+   }
+
+   .card-title{
+       color: #4285F4;
+       text-align: center;
+       font-weight: bold;
+   }
+
+  a
+  {
+    background-color: #4285F4;
+    font-size: 10px;
+    color: #4285F4;
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 8vh;
+    font-family: "Poppins", sans-serif;
+    background-color: #151d1daf;
+    z-index: 999;
+    position: fixed;
+    width: 100%;
+    color: #4285F4;
+
+  }
+  
+  .nav-links {
+    display: flex;
+    width: 50%;
+    margin-left: 0px;
+    position: fixed;
+    z-index: 2;
+    color: #4285F4;
+
+  }
+  
+  .nav-links li {
+    list-style: none;
+    margin-left: 90px;
+    z-index: 2;
+    color: #4285F4;
+    transition-duration: 600ms;
+  }
+  
+  .nav-links li:hover {
+    transition-duration: 800ms;
+    transform: scale(1.1);
+    text-decoration-line: underline;
+  }
+  
+  .nav-links a {
+    color: #4285F4;
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 250px;
+  }
+
+  #footer{
+    display: flex;
+    text-align: center;
+    color: white;
+    font-size: 18px;
+    margin-left: 250 px;
+    margin-left: 850px;
+  }
+  
